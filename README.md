@@ -24,4 +24,4 @@
 [Large scale celebrity faces with attributes](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
 #### Pokemon
-[First 150 Pokemon](https://github.com/The-Chanman/pokemon-image-dataset)
+[First 150 Pokemon Images](https://github.com/The-Chanman/pokemon-image-dataset)
