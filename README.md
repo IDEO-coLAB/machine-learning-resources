@@ -1,5 +1,11 @@
 # Machine learning resources
 
+### Learning and Literature
+
+[Distill](https://distill.pub) is dedicated to clear explanations of machine learning.
+
+[OpenAI](https://openai.com) is a non-profit AI research company.
+
 ### Generative adversarial networks (GANs)
 
 [Tensorflow implementation of DCGAN](https://github.com/carpedm20/DCGAN-tensorflow)
