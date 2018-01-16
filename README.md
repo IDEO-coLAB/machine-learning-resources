@@ -1,6 +1,6 @@
 # Machine learning resources
 
-## Blogs and Literature
+# Blogs and Literature
 
 [Distill](https://distill.pub) is dedicated to clear explanations of machine learning.
 
