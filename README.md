@@ -34,6 +34,9 @@
 
 [Stanford CS 124: From Languages to Information](http://web.stanford.edu/class/cs124/)
 
+### Weak supervision
+[Weak Supervision: The New Programming Paradigm for Machine Learning](http://dawn.cs.stanford.edu/2017/07/16/weak-supervision/)
+
 # Datasets
 
 ### CelebA
